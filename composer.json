@@ -1,0 +1,14 @@
+{
+    "name": "jorge/formularios",
+    "description": "ejercicio de formularios",
+    "authors": [{
+        "name": "jorge mochon bernal",
+        "email": "bernalmochonjorge@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./clases"
+        }
+    }
+}
